@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    margin: 25px;
+    padding: 25px;
+    width: auto;
+}
+
+html {
+    background-color: white;
+}
+
+#first {
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    margin: 5px;
+}
+
+#second {
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    margin: 5px;
+}
+
+#third {
+    background-color: grey;
+    color: white;
+    border-radius: 10px;
+    font-size: 25px;
+    margin: 5px;
+}
